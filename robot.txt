@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /search
+Allow: /
+
+Sitemap: https://www.itenas.ac.id/wp-content/plugins/slot-gacor/sitemap.xml
